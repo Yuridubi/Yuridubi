@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou O Yuri Silva dos Santos
+    Sou O Yuri Silva dos Santos um Dev Amante da Tecnologia
    
   </p>
   
